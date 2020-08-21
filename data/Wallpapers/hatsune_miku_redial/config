@@ -1,0 +1,26 @@
+[Info]
+WallpaperType=video
+VideoFileName=hatsune_miku_redial_wallpaper.mp4
+
+[DateTime]
+Visible=true
+Parallax=false
+MarginTop=0
+MarginRight=15
+MarginLeft=0
+MarginBottom=15
+RotationX=0
+RotationY=0
+RotationZ=0
+Position=bottom_right
+Alignment=end
+AlwaysOnTop=true
+Color=#dd22dd22dd22
+Alpha=255
+ShadowColor=#dd22dd22dd22
+ShadowAlpha=255
+TimeFont=Lato Light 30
+DateFont=Lato Light 20
+
+[Wallpaper]
+Parallax=false
